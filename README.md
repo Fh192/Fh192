@@ -10,15 +10,15 @@
 
  
 <p>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" title='React'  />&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" title='Redux'/> &nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title='TypeScript'/> &nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title='JavaScript'/> &nbsp
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" title='Jest'/>  &nbsp
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title='Git'/>&nbsp
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title='Figma'/>&nbsp
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" title='HTML'/> &nbsp
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" title='CSS'/>&nbsp
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="30" height="30" title='React'  />&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30" title='Redux'/> &nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" title='TypeScript'/> &nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title='JavaScript'/> &nbsp
+<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30" title='Jest'/>  &nbsp
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" title='Git'/>&nbsp
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" title='Figma'/>&nbsp
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30" title='HTML'/> &nbsp
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30" title='CSS'/>&nbsp
 </p>
 
 ###
