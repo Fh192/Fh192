@@ -1,25 +1,23 @@
 <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200px" align="right"/>
  
-#  Hi, my name is Kirill  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="30px"/>
+#  Hi, my name is Kirill  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px"/>
 
 ### I'm Junior Frontend Developer (React)
 
-
-## <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="30px" > Contacts 
+## <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="35px" > Contacts 
 
 <p>
-<a href"https://www.linkedin.com/in/kirill-shevchenko-998828224/" title='LinkedIn'  width="50px"> 
+<a href="https://www.linkedin.com/in/kirill-shevchenko-998828224/" title='LinkedIn'  width="50px"> 
 <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG13.png" alt='LinkedIn' width="40px"/>
 </a>&nbsp&nbsp
-<a href"https://t.me/void192"  title='Telegram'> 
+<a href="https://t.me/void192"  title='Telegram'> 
 <img src="https://pngimg.com/uploads/telegram/telegram_PNG6.png" alt='Telegram' width="40px"/>
-</a>
+</a>&nbsp&nbsp 
 </p>
  
-
-
+  
+ 
 ## <img src="https://media.giphy.com/media/28xdRHsAQf7kcLmxDq/giphy.gif" width="30px" >  My Skills
-
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="30" height="30" title='React'  />
@@ -47,17 +45,20 @@
 ##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="30px"> My top open source projects
 
 <p>
-<a href="https://github.com/Fh192/social-network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=social-network&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/covid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=covid&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/currency-converter"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=currency-converter&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/todo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=todo&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/social-network">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=social-network&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/covid">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=covid&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/currency-converter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=currency-converter&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/todo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=todo&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 </p>
 
 <p>
- <a href="https://github.com/Fh192?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=9645F4&logo=repo&color=1F222E"></a>
+<a href="https://github.com/Fh192?tab=repositories">
+<img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-1F222E?style=for-the-badge&logoColor=9645F4&logo=repo&color=1F222E"></a>
 </p>
-
-
 
 ## <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/fire.gif" width="30px"> Statistics
 
@@ -65,4 +66,3 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Fh192&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&hide_border=true&stroke=00000000" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fh192&theme=midnight-purple&bg_color=1F222E&hide_border=true"/> -->
 </p>
-
