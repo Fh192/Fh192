@@ -7,11 +7,17 @@
 ## <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="35px" > Contacts 
 
 <p>
-<a href="https://www.linkedin.com/in/kirill-shevchenko-998828224/" title='LinkedIn'  width="50px"> 
-<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG13.png" alt='LinkedIn' width="40px"/>
+<a href="https://www.linkedin.com/in/kirill-shevchenko-998828224/" target="_blank" title='LinkedIn' > 
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt='LinkedIn' width="40px"/>
 </a>&nbsp&nbsp
-<a href="https://t.me/void192"  title='Telegram'> 
-<img src="https://pngimg.com/uploads/telegram/telegram_PNG6.png" alt='Telegram' width="40px"/>
+<a href="https://t.me/void192" target="_blank"  title='Telegram'> 
+<img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt='Telegram' width="40px"/>
+</a>&nbsp&nbsp 
+<a href="https://vk.com/im?sel=284231503" target="_blank"  title='Vk'> 
+<img src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt='Vk' width="40px"/>
+</a>&nbsp&nbsp 
+<a href="mailto:shevchenko.kirill192@gmail.com" target="_blank"  title='Gmail'> 
+<img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt='Gmail' width="40px"/>
 </a>&nbsp&nbsp 
 </p>
  
