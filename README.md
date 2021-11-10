@@ -34,16 +34,16 @@
 &nbsp&nbsp 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title='JavaScript'/>
 &nbsp&nbsp 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30" title='Jest'/> 
-&nbsp&nbsp 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" title='Git'/>
+&nbsp&nbsp 
+<img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="VsCode" width="33" height="33" title='VsCode'/>
 &nbsp&nbsp 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" title='Figma'/>
 &nbsp&nbsp 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="30" height="30" title='HTML'/> 
 &nbsp&nbsp 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="30" height="30" title='CSS'/>
-&nbsp&nbsp 
+&nbsp&nbsp   
 </p> 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh192&layout=compact&theme=midnight-purple&bg_color=1F222E&hide_border=true" />
