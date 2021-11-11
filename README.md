@@ -47,7 +47,7 @@
 </p> 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh192&layout=compact&theme=midnight-purple&bg_color=1F222E&hide_border=true" />
- 
+  
 ##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="30px"> My top open source projects
 
 <p>
@@ -68,8 +68,8 @@
 
 ## <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/fire.gif" width="30px"> Statistics
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Fh192&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&hide_border=true&stroke=00000000" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Fh192&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&hide_border=true&stroke=00000000" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fh192&theme=midnight-purple&bg_color=1F222E&hide_border=true&hide_title=true&layout=compact"/>
+<p align="center"><a href="https://www.codewars.com/users/Fh192" /><img src="https://www.codewars.com/users/Fh192/badges/large" />
  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=fh192&theme=midnight-purple&bg_color=1F222E&hide_border=true&hide_title=true&layout=compact"/>
-</p>
+
