@@ -57,8 +57,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=covid&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/currency-converter">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=currency-converter&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/todo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=todo&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/weather">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=weather&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 </p>
 
 <p>
