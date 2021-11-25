@@ -13,9 +13,9 @@
 <a href="https://t.me/void192" target="_blank"  title='Telegram'> 
 <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt='Telegram' width="40px"/>
 </a>&nbsp&nbsp 
-<a href="https://vk.com/im?sel=284231503" target="_blank"  title='Vk'> 
+<!-- <a href="https://vk.com/im?sel=284231503" target="_blank"  title='Vk'> 
 <img src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" alt='Vk' width="40px"/>
-</a>&nbsp&nbsp 
+</a>&nbsp&nbsp  -->
 <a href="mailto:shevchenko.kirill192@gmail.com" target="_blank"  title='Gmail'> 
 <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt='Gmail' width="40px"/>
 </a>&nbsp&nbsp 
@@ -53,12 +53,12 @@
 <p>
 <a href="https://github.com/Fh192/social-network">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=social-network&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/weather">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=weather&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/covid">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=covid&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/currency-converter">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=currency-converter&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/weather">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=weather&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 </p>
 
 <p>
