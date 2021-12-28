@@ -1,8 +1,7 @@
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200px" align="right"/>
  
 #  Hi, my name is Kirill  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px"/>
 
-### I'm Junior Frontend Developer (React)
+### I'm Junior Frontend Developer
 
 ## <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="35px" > Contacts 
 
@@ -48,7 +47,7 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh192&layout=compact&theme=midnight-purple&bg_color=1F222E&hide_border=true" />
   
-##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="30px"> My top open source projects
+##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="30px"> My projects
 
 <p>
 <a href="https://github.com/Fh192/social-network">
