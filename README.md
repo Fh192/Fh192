@@ -52,12 +52,12 @@
 <p>
 <a href="https://github.com/Fh192/social-network">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=social-network&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/valorant-agents">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=valorant-agents&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/weather">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=weather&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/covid">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=covid&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/currency-converter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=currency-converter&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 </p>
 
 <p>
