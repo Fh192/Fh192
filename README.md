@@ -1,5 +1,5 @@
  
-#  Hi, my name is Kirill  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px"/>
+#  Hi, my name is Kirill  <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="40px" height="40px"/>
 
  
 
@@ -15,7 +15,7 @@
 </a>&nbsp&nbsp 
 </p>
   
-##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="30px"> My best projects
+##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="40px" height="40px"> My best projects
 
 <p  align="center">
 <a href="https://github.com/Fh192/social-network">
