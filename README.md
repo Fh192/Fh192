@@ -18,14 +18,14 @@
 ##  <img src ="https://media.giphy.com/media/S3nZ8V9uemShxiWX8g/giphy.gif" width="40px" height="40px"> My best projects
 
 <p  align="center">
-<a href="https://github.com/Fh192/social-network">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=social-network&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/opendota">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=opendota&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/valorant-agents">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=valorant-agents&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 <a href="https://github.com/Fh192/weather">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=weather&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
-<a href="https://github.com/Fh192/covid">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=covid&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
+<a href="https://github.com/Fh192/social-network">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Fh192&repo=social-network&theme=midnight-purple&bg_color=1F222E&hide_border=true"></a>
 </p>
 
 <p  align="center">
